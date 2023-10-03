@@ -1,0 +1,15 @@
+﻿I don't know what crazy freak designed this game, but it's awesome.
+It's has the basic commands you would expect, and lists them in the man command
+but it also has a bunch of other commands that are just plain weird, and aren't listed as official commands.
+I'm not sure what they do, but I'm going to try them out.
+So far I've tried:
+```
+$ harvest
+$ appropriate
+$ blaspheme
+```
+
+
+there are probably more, but I haven't found them yet.
+
+I will update this file as I find more commands.
